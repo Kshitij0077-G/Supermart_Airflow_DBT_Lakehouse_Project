@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# Apache Airflow
+logs/
+airflow.db
+airflow-webserver.pid
+unittests.cfg
+webserver_config.py
+
+# dbt artifacts & packages
+target/
+dbt_packages/
+logs/
+
+# Environment variables & secrets (Crucial for security!)
+.env
+.env.*

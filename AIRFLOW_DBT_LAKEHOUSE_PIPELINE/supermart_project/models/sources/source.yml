@@ -1,0 +1,12 @@
+sources:
+  - name: supermart_databricks
+    database: supermart  
+    schema: bronze  
+    tables:
+      - name: orders
+      - name: customers
+      - name: products
+      - name: order_items
+      - name: stores
+      - name: employees
+ 
