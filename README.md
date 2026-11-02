@@ -82,6 +82,11 @@ AIRFLOW_DBT_LAKEHOUSE_PIPELINE/
 └── README.md                         # Project documentation and architecture guide
 ```
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
 ## 👤 About Me
 
 Hi, I’m **Kshitij Gudekar** — a Data Analyst transitioning into **Data Engineering & AI Data Engineering**.
