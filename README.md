@@ -23,7 +23,7 @@ This project involves:
 - dbt (Data Build Tool)
 - PostgreSQL / Ghost DB
 
----
+
 
 ## 🚀 Project Requirements
 
@@ -38,7 +38,7 @@ Design and implement a modern cloud data lakehouse using Apache Airflow, dbt, Da
 - **Workflow Orchestration:** Automate end-to-end task execution dependencies, scheduling, and error handling using Apache Airflow TaskFlow DAGs.
 - **Documentation & Data Governance:** Compile interactive dbt documentation and catalog definitions to support technical teams and business stakeholders.
 
----
+
 
 ### 📊 Enterprise Data Marts & Analytics Engineering
 **The Core Objective**
