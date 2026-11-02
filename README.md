@@ -57,7 +57,7 @@ Develop modular dbt transformations, Spark SQL models, and curated analytical da
 
 The pipeline processes operational data from transactional databases and cloud file storage into a structured Delta Lake / Databricks environment, fully managed by **dbt** for transformations and **Apache Airflow** for end-to-end orchestration.
 
-![Data Architecture](AIRFLOW_DBT_LAKEHOUSE_PIPELINE/docs/Data Architecture.png)
+![Data Architecture](AIRFLOW_DBT_LAKEHOUSE_PIPELINE/docs/Data%20Architecture.png)
 
 ### ⚙️ Pipeline Components & Data Flow
 
