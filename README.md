@@ -22,3 +22,22 @@ This project involves:
 - Databricks & PySpark
 - dbt (Data Build Tool)
 - PostgreSQL / Ghost DB
+
+---
+
+## 🚀 Project Requirements
+
+### 🛠️ Data Lakehouse Development (Data Engineering)
+**Objective**
+Design and implement a modern cloud data lakehouse using Apache Airflow, dbt, Databricks, and PostgreSQL (Ghost DB) to consolidate high-volume retail data and enable reliable analytical reporting and data-driven decision-making.
+
+**Specifications**
+- **Data Ingestion:** Extract and load raw operational data from PostgreSQL (Ghost DB) database instances and CSV files into cloud-simulated landing storage (Bronze Layer).
+- **Data Quality & Transformation:** Perform automated data cleansing, deduplication, schema validation, and type casting using PySpark and dbt staging models (Silver Layer).
+- **Data Integration & Modeling:** Integrate cleansed data streams into an optimized Star Schema dimensional model (Gold Layer) with facts and dimensions built for high-speed querying.
+- **Workflow Orchestration:** Automate end-to-end task execution dependencies, scheduling, and error handling using Apache Airflow TaskFlow DAGs.
+- **Documentation & Data Governance:** Compile interactive dbt documentation and catalog definitions to support technical teams and business stakeholders.
+
+---
+
+
