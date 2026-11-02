@@ -40,4 +40,16 @@ Design and implement a modern cloud data lakehouse using Apache Airflow, dbt, Da
 
 ---
 
+### 📊 Enterprise Data Marts & Analytics Engineering
+**The Core Objective**
+Develop modular dbt transformations, Spark SQL models, and curated analytical data marts in Databricks to serve high-performance business intelligence across key retail domains:
+
+- **Customer Behavioral Analytics:** Tracking customer acquisition, purchase frequency, order value distribution, and segmentation.
+- **Product & Category Performance:** Evaluating top-performing inventory SKUs, sales volume, category revenue breakdown, and stock velocity.
+- **Sales & Financial Growth Metrics:** Modeling executive-level KPIs, monthly recurring revenue trends, order fulfillment rates, and sales margins.
+
+**Technical Delivery**
+- **Curated Fact & Dimension Tables:** Built star-schema dimensional models optimized for low-latency analytical queries.
+- **Bi-Directional Consumption Ready:** Models are structured for seamless connection to downstream BI dashboards (e.g., Power BI, Tableau, or Databricks SQL) and executive reporting systems.
+
 
